@@ -1,7 +1,7 @@
-Aerial Web-Page by <b>@BeyondLon</b><br>
+**Aerial Web-Page by <b>@BeyondLon</b><br>**
 Free for personal and commercial use under the CCA 3.0 license<br>
 
-
+---------------------------------------------------------------------------------
 This is Aerial, a single page, single screen responsive site template. Real simple.
 Makes heavy use of CSS animation (something I've been messing with a lot lately).
 Should work well as a landing page that just directs folks to your stuff elsewhere
