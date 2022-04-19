@@ -1,6 +1,6 @@
 <h1>Spectral By @BeyondLon</h1><br>
-**Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)**
-
+Free for personal and commercial use under the CCA 3.0 license
+----------------------------------------------------------------
 
 A big, modern, blocky affair with a mobile-style menu, fully responsive styling,
 and an assortment of pre-styled elements. So, pretty much what you were expecting
@@ -26,9 +26,9 @@ you can use for pretty much whatever.
 
 (* = not included)
 
-*Live Preview Below
+Live Preview Below
 https://beyondlon.github.io
-
+-----------------------------------
 
 Credits:
 
