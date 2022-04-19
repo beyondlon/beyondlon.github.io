@@ -1,4 +1,5 @@
 <h1>Spectral By @BeyondLon</h1><br>
+
 Free for personal and commercial use under the CCA 3.0 license
 ----------------------------------------------------------------
 
