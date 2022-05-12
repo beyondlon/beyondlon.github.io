@@ -8,7 +8,7 @@ you can use for pretty much whatever.
 
 (* = not included)
 
-Albin S
+Albin S<br>
 personal@albins.slmail.me | @beyondlon
 
 
