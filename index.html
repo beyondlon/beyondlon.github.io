@@ -11,6 +11,12 @@
 		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
 	</head>
 	<body class="is-preload">
+		<script>
+			document.addEventListener("contextmenu", e => {
+				alert("Sorry! Right Click Is Disabled");
+				e.preventDefault();
+			});
+		</script>
 		<div id="wrapper">
 			<div id="bg"></div>
 			<div id="overlay"></div>
