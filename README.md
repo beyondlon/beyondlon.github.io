@@ -1,4 +1,4 @@
-#BeyondLon.Github.Io | @BeyondLon
+<b>BeyondLon.Github.Io | @BeyondLon</b>
 Free for any personal and commercial use under the WTFPL license 
 
 
@@ -7,12 +7,16 @@ Makes heavy use of CSS animation (something I've been messing with a lot lately)
 Should work well as a landing page that just directs folks to your stuff elsewhere
 on the www.
 
+
 The scrolling mountainous background was derived from "wallpaperaccess.com"
+
 
 Questions/comments/issues = just email or find me on Twitter. Have fun!
 
-BL
+
+BL<br>
 Personal@albins.slmail.me | @beyondlon
+
 
 
 The Scrolling Background:
@@ -26,8 +30,12 @@ The Scrolling Background:
 	- About 1500px wide.
 	- Fades to a solid color either at the top of bottom (which is used to fill
 	  the empty space above or below your image).
+	  
+	  
 
 	Now, there is a way to use it: with CSS
+	
+	
 
 	CSS:
 
