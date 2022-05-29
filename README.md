@@ -1,5 +1,5 @@
 
-Free for personal and commercial use under the CCA 3.0 license 
+Free for personal and commercial use under the WTFPL license 
 
 
 
