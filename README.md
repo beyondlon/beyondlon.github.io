@@ -1,17 +1,11 @@
-<b>BeyondLon.Github.Io | @BeyondLon</b>
+<b>BeyondLon.Github.Io | @BeyondLon</b><br>
 Free for any personal and commercial use under the WTFPL license 
-
+------------------------------------------------------------------
 
 This is Aerial, a single page, single screen responsive site template. Real simple.
 Makes heavy use of CSS animation (something I've been messing with a lot lately).
 Should work well as a landing page that just directs folks to your stuff elsewhere
 on the www.
-
-
-The scrolling mountainous background was derived from "wallpaperaccess.com"
-
-
-Questions/comments/issues = just email or find me on Twitter. Have fun!
 
 
 BL<br>
@@ -31,12 +25,8 @@ The Scrolling Background:
 	- Fades to a solid color either at the top of bottom (which is used to fill
 	  the empty space above or below your image).
 	  
-	  
-
-	Now, there is a way to use it: with CSS
+	  Now, there is a way to use it: with CSS
 	
-	
-
 	CSS:
 
 		Look for this line in css/style.css (line 108 as of this writing):
