@@ -2,6 +2,7 @@
 Free for any personal and commercial use under the WTFPL license 
 ------------------------------------------------------------------
 
+
 This is Aerial, a single page, single screen responsive site template. Real simple.
 Makes heavy use of CSS animation (something I've been messing with a lot lately).
 Should work well as a landing page that just directs folks to your stuff elsewhere
@@ -51,3 +52,12 @@ Credits:
 
         Special Thanks:
                 HTML5UP (html5up.net)
+
+
+ 
+ _                                _ _
+| |__   ___ _   _  ___  _ __   __| | | ___  _ __
+| '_ \ / _ | | | |/ _ \| '_ \ / _` | |/ _ \| '_ \
+| |_) |  __| |_| | (_) | | | | (_| | | (_) | | | |
+|_.__/ \___|\__, |\___/|_| |_|\__,_|_|\___/|_| |_|
+            |___/
