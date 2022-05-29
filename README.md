@@ -15,12 +15,12 @@ personal@albins.slmail.me | @beyondlon
 Credits:
 
 	Demo Images:
-		Unsplash (unsplash.com)
+	        WallpaperAccess (WallpaperAcess.com)
 
 	Icons:
 		Font Awesome (fontawesome.io)
 
-	Other:
-		jQuery (jquery.com)
+	Special:
+		HTML5UP (HTML5UP.NET)
 		Scrollex (github.com/ajlkn/jquery.scrollex)
 		Responsive Tools (github.com/ajlkn/responsive-tools)
