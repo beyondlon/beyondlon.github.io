@@ -1,4 +1,4 @@
-<b>BeyondLon.Github.Io | @BeyondLon</b><br>
+<b>Aerial Personal Web-Page</b><br>
 Free for any personal and commercial use under the WTFPL license 
 ------------------------------------------------------------------
 
